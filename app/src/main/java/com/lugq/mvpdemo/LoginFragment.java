@@ -1,6 +1,6 @@
 package com.lugq.mvpdemo;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * 对应印象笔记文章： BaseFragment 封装
