@@ -1,4 +1,4 @@
-package com.lugq.mvpdemo;
+package com.lugq.mvpdemo.java.base;
 
 import android.app.Activity;
 import android.content.Context;

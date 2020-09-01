@@ -1,4 +1,4 @@
-package com.lugq.mvpdemo;
+package com.lugq.mvpdemo.java.base;
 
 /**
  * @Description

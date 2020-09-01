@@ -2,6 +2,8 @@ package com.lugq.mvpdemo;
 
 import androidx.fragment.app.Fragment;
 
+import com.lugq.mvpdemo.java.base.BaseFragment;
+
 /**
  * 对应印象笔记文章： BaseFragment 封装
  * A simple {@link Fragment} subclass.

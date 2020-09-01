@@ -1,5 +1,7 @@
 package com.lugq.mvpdemo;
 
+import com.lugq.mvpdemo.java.base.BasePresenter;
+
 /**
  * @Description
  * @Author Lu Guoqiang
