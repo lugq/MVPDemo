@@ -13,4 +13,8 @@ public class LoginPresenter extends BasePresenter<LoginView> {
         super(view);
     }
 
+    public void getUserInfo() {
+
+    }
+
 }
